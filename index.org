@@ -1,0 +1,16 @@
+#+STARTUP: indent
+#+OPTIONS: p:t author:nil todo:nil toc:1 title:t num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="orgstyle.css" />
+#+TITLE: Calvin Houser
+
+#+HTML: <div id="subhead">
+Software Engineer
+
+UC Santa Cruz Alum
+
+#+HTML: </div>
+* School Projects
+
+* Personal Projects
+
+* Open-Source Contributions
