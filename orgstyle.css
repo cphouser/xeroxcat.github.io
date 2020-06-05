@@ -107,18 +107,14 @@ ul {
     border: 2px solid #0a0908;
     color: #0a0908;
     padding-bottom: 4px;
-    position: fixed;
-    width: 250px;
-    height: auto;
-    top: 25px;
-    right: 4px;
+    text-align: left;
 }
 
 #table-of-contents a {
     color: #fbf5f3;
     text-decoration: none;
     font-weight: bold;
-    padding-left: 2px;
+    padding-left: 4px;
     padding-right: 2px;
 }
 
@@ -134,7 +130,32 @@ ul {
     padding: 2px;
     margin: 0 8px 8px;
     margin-right: 8px;
-    text-indent: -8px;
-    padding-left: 8px;
+    text-indent: -12px;
+    padding-left: 12px;
 }
 
+#table-of-contents li li {
+    background-color: #fbf5f3;
+    text-indent: -16px;
+    padding-left: 12px;
+}
+
+#table-of-contents li li a {
+    color: #b6a39e;
+    padding: 2px;
+    margin: 0 8px 8px;
+    margin-right: 8px;
+}
+
+#toc-area {
+    position: fixed;
+    width: 15em;
+    height: auto;
+    top: 4px;
+    right: 4px;
+    font-size: smaller;
+}
+
+#toc-area {
+    text-align: right;
+}

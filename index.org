@@ -1,7 +1,13 @@
 #+STARTUP: indent
-#+OPTIONS: p:t author:nil todo:nil toc:1 title:t num:nil
+#+OPTIONS: p:t author:nil todo:nil toc:nil title:t num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="orgstyle.css" />
 #+TITLE: Calvin Houser
+
+#+HTML:<div id="toc-area"><div id="toc-wrapper">
+#+TOC: headlines 2
+#+HTML: <a onclick="document.getElementById('toc-wrapper').style.display = 'none';document.getElementById('menu-show').style.display = 'inline';">hide menu</a> 
+#+HTML: </div>
+#+HTML: <a id="menu-show" style="display:none;text-align:right;" onclick="document.getElementById('toc-wrapper').style.display = 'block';document.getElementById('menu-show').style.display = 'none';">show menu</a></div>
 
 #+HTML: <div id="subhead">
 Software Engineer
