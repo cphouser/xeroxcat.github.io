@@ -9,8 +9,60 @@ Software Engineer
 UC Santa Cruz Alum
 
 #+HTML: </div>
-* School Projects
 
 * Personal Projects
+** Deduplicator
+[[https://github.com/xeroxcat/deduplicator][repository]]
+
+Command line tool to summarize file tree information and provide macros for deduplication.
+
+** Arduino Synth
+[[https://github.com/xeroxcat/arduino-synth][repository]]
+
+A Digital Synthesizer running on an atmega328p with scrap I/O components. Built using the Mozzi Sound Library for Arduino.
+
+
+** Youtube DJ
+[[https://github.com/xeroxcat/youtube-dj][repository]] | [[http://xeroxc.at/youtube.htm][demo]]
+
+A web interface built for aggregating and randomly playing syndicated music on youtube. A private page is used for scraping the video IDs of a channel or playlist using the Youtube API and saving the IDs to a file. A public page then is used to randomly play videos in continuously from the list in an embedded iframe.
+
+# ** Smorgasbord
+# [[https://github.com/xeroxcat/smorgasbord][repository]]
+# 
+# Graph database integrating browsing history, bookmarks, and active windows.
+
+** Small Projects
+*** Letter Generator
+[[https://github.com/xeroxcat/letter-generator][repository]]
+
+A wizard-like interface built using the Dialog ncurses application for generating form letters.
+
+*** 52WheelCrawler
+[[https://github.com/xeroxcat/52wheelcrawler][repository]]
+
+A selenium script, checks a row52.com search result for a specifiable range of vehicles listed after a particular date
+
+*** i3 Layout Visualizer
+[[https://github.com/xeroxcat/i3-visualizer][repository]]
+
+An ncurses based interactive visualization of active i3 workspaces.
+
+
+* School Projects
+** ReceiptApp
+[[https://github.com/xeroxcat/receiptapp][repository]]
+
+A graphical interface for reading item data on grocery receipts using Tesseract OCR. Each item and corresponding price is parsed from the text and displayed in the interface for correcting errors from OCR. The data from each receipt is then saved with the transaction date in a JSON file. Developed in course ”Data Wrangling and Web Scraping.”
+
+** Distributed Key-Value Store
+sharable upon request
 
 * Open-Source Contributions
+** rfeed: CDATA Tag Integration
+[[https://github.com/svpino/rfeed][repository]] | [[https://github.com/svpino/rfeed/pull/20][pull request]]
+
+** TM1637 (No Delay)
+[[https://github.com/xeroxcat/TM1637-no-delay][repository]]
+
+# ** Mozzi: CurvyADSR
