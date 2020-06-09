@@ -42,12 +42,12 @@ A web interface built for aggregating and randomly playing syndicated music on y
 *** Letter Generator
 [[https://github.com/xeroxcat/letter-generator][repository]]
 
-A wizard-like interface built using the Dialog ncurses application for generating form letters.
+A menu interface built using the Dialog ncurses application for generating form letters. 
 
 *** 52WheelCrawler
 [[https://github.com/xeroxcat/52wheelcrawler][repository]]
 
-A selenium script, checks a row52.com search result for a specifiable range of vehicles listed after a particular date
+A selenium script, checks a row52.com search result for a specifiable range of vehicles listed after a particular date.
 
 *** i3 Layout Visualizer
 [[https://github.com/xeroxcat/i3-visualizer][repository]]
@@ -57,12 +57,15 @@ An ncurses based interactive visualization of active i3 workspaces.
 
 * School Projects
 ** ReceiptApp
+file:img/receiptapp.png
 [[https://github.com/xeroxcat/receiptapp][repository]]
 
 A graphical interface for reading item data on grocery receipts using Tesseract OCR. Each item and corresponding price is parsed from the text and displayed in the interface for correcting errors from OCR. The data from each receipt is then saved with the transaction date in a JSON file. Developed in course ”Data Wrangling and Web Scraping.”
 
 ** Distributed Key-Value Store
 sharable upon request
+
+A flask application deployable to multiple Docker containers over a Docker network which maintain a single instance of stored key-value pairs. The data can be specified to replicate and shard across the running nodes and can be accessed or added from any running node. 
 
 * Open-Source Contributions
 ** rfeed: CDATA Tag Integration
