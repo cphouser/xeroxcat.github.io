@@ -17,6 +17,10 @@ UC Santa Cruz Alum
 #+HTML: </div>
 
 * Personal Projects
+** Smorgasbord
+[[file:img/graph.ong]]
+[[https://github.com/xeroxcat/smorgasbord][repository]]
+
 ** Deduplicator
 [[https://github.com/xeroxcat/deduplicator][repository]]
 
@@ -71,6 +75,7 @@ Developed in course ”Data Wrangling and Web Scraping.” The class project use
 sharable upon request
 
 A flask application deployable to multiple Docker containers over a Docker network which maintain a single instance of stored key-value pairs. The data can be specified to replicate and shard across the running nodes and can be accessed or added from any running node. 
+
 
 * Open-Source Contributions
 ** rfeed: CDATA Tag Integration
