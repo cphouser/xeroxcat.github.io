@@ -23,7 +23,7 @@ UC Santa Cruz Alum
 [[file:img/graph.png]]
 [[https://github.com/xeroxcat/smorgasbord][repository]]
 
-A utility for organizing, cataloging, and visualizing web browsing. Smorgasbord tracks the current state of all active browser and can save each link and associated visit to its database. On the *Active Windows* page, each visited link can be tagged and saved. Once a link is tagged each visit is saved and visible on the *Recent Visits* page. On the *Timeline Graph* page, saved links, tags, and the visits to them can be visualized in a network graph. Runs on a Flask Server interfacing with a browser WebExtension.
+A utility for organizing, cataloging, and visualizing web browsing. Smorgasbord tracks the current state of all active browser windows and can save each link and associated visit to its database. On the *Active Windows* page, each visited link can be tagged and saved. Once a link is tagged each visit is saved and visible on the *Recent Visits* page. On the *Timeline Graph* page, saved links, tags, and the visits to them can be visualized in a network graph. Runs on a Flask Server interfacing with a browser WebExtension.
 
 ** Deduplicator
 [[https://github.com/xeroxcat/deduplicator][repository]]
