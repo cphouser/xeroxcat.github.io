@@ -18,7 +18,7 @@ UC Santa Cruz Alum
 
 * Personal Projects
 ** Smorgasbord
-[[file:img/graph.ong]]
+[[file:img/graph.png]]
 [[https://github.com/xeroxcat/smorgasbord][repository]]
 
 ** Deduplicator
