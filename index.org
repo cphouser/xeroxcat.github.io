@@ -49,6 +49,11 @@ A web interface built for aggregating and randomly playing syndicated music on y
 # Graph database integrating browsing history, bookmarks, and active windows.
 
 ** Small Projects
+*** org-podcast
+[[https://github.com/xeroxcat/org-podcast][repository]]
+
+A tiny utility for generating podcast rss feeds from Emacs org-mode files.
+
 *** Letter Generator
 [[https://github.com/xeroxcat/letter-generator][repository]]
 
