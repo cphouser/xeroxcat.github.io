@@ -49,6 +49,11 @@ A web interface built for aggregating and randomly playing syndicated music on y
 # Graph database integrating browsing history, bookmarks, and active windows.
 
 ** Small Projects
+*** org-scrape
+[[https://github.com/xeroxcat/org-scrape][repository]]
+
+An elisp function and associated python script which integrates into Emacs org-mode and replaces a hyperlinked website with content fetched from its URL, formatted to org-mode markup using pandoc.
+
 *** org-podcast
 [[https://github.com/xeroxcat/org-podcast][repository]]
 
