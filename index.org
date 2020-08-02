@@ -90,6 +90,16 @@ sharable upon request
 
 A flask application deployable to multiple Docker containers over a Docker network which maintain a single instance of stored key-value pairs. The data can be specified to replicate and shard across the running nodes and can be accessed or added from any running node. 
 
+** Survey Paper on Monadic Constraint Programming 
+[[file:mcp.pdf][Paper [pdf]​]]
+[[file:mcp_poster.pdf][Poster [pdf]​]]
+
+A term project for a class on technical and academic writing. Discusses the work described in [[https://pdfs.semanticscholar.org/cbd6/c768f8c19e514b1b8b4fd66f679a6b631990.pdf][Monadic Constraint Programming (Schrijvers et al 2009)]] and its relevance. 
+
+** LaTeX Introductory Tutorial
+[[file:latexintro.pdf][Paper [pdf]​]]
+
+A project for a class on technical and academic writing. Succinctly describes and demonstrates many fundamental formatting capabilites, constructs, and conventions of authoring documents using LaTeX.
 
 * Open-Source Contributions
 ** rfeed: CDATA Tag Integration
